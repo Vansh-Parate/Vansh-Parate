@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 💬 Ask me about **React,Expressjs,Nodejs**
+- 💬 Ask me about **React,Nodejs**
 
 - 📫 How to reach me **vanshparate@gmail.com**
 
