@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/radeon74055" target="blank"><img src="https://img.shields.io/twitter/follow/radeon74055?logo=twitter&style=for-the-badge" alt="radeon74055" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Nextjs,Docker**
+- 🌱 I’m currently learning **App Dev and Python**
 
 - 👯 I’m looking to collaborate on **Open source**
 
