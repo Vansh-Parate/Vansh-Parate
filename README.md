@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **App Dev and SQL**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👯 I’m looking to collaborate on **Open source**
 
