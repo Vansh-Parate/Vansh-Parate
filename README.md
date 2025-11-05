@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/radeon74055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radeon74055" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vansh-parate-b1751a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh parate" height="30" width="40" /></a>
+<a href="https://twitter.com/vanxh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radeon74055" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vansh-parate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh parate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
