@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning about **RAG**
 
 - 👯 I’m looking to collaborate on **Open source**
 
